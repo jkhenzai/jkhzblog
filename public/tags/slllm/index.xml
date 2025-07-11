@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SLLLM on Terminal</title>
+    <link>//localhost:1313/tags/slllm/</link>
+    <description>Recent content in SLLLM on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/slllm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 Modelos de Lenguaje Pequeños (SLMs): El Futuro de la IA Agéntica</title>
+      <link>//localhost:1313/posts/los-small-llms-2025/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/los-small-llms-2025/</guid>
+      <description>&lt;p&gt;La inteligencia artificial agéntica está evolucionando rápidamente, y todo apunta a que los &lt;strong&gt;Modelos de Lenguaje Pequeños (SLMs)&lt;/strong&gt; tienen un rol protagónico en este futuro. Frente al dominio actual de los &lt;strong&gt;Modelos de Lenguaje Grandes (LLMs)&lt;/strong&gt;, los autores de este análisis argumentan que los SLMs son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;✅ Suficientemente potentes (V1)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;⚙️ Operacionalmente más adecuados (V2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💸 Necesariamente más económicos (V3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Veamos por qué esta visión está ganando terreno.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-por-qué-los-slms-son-una-mejor-opción&#34;&gt;💡 ¿Por qué los SLMs son una mejor opción?&lt;/h2&gt;
+&lt;h3 id=&#34;-a1-suficiente-capacidad-para-agentes&#34;&gt;🧠 A1. Suficiente capacidad para agentes&lt;/h3&gt;
+&lt;p&gt;Los SLMs han progresado hasta el punto de &lt;strong&gt;igualar o superar LLMs previos&lt;/strong&gt; en tareas clave:&lt;/p&gt;</description>
+      <content>&lt;p&gt;La inteligencia artificial agéntica está evolucionando rápidamente, y todo apunta a que los &lt;strong&gt;Modelos de Lenguaje Pequeños (SLMs)&lt;/strong&gt; tienen un rol protagónico en este futuro. Frente al dominio actual de los &lt;strong&gt;Modelos de Lenguaje Grandes (LLMs)&lt;/strong&gt;, los autores de este análisis argumentan que los SLMs son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;✅ Suficientemente potentes (V1)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;⚙️ Operacionalmente más adecuados (V2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;💸 Necesariamente más económicos (V3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Veamos por qué esta visión está ganando terreno.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-por-qué-los-slms-son-una-mejor-opción&#34;&gt;💡 ¿Por qué los SLMs son una mejor opción?&lt;/h2&gt;
+&lt;h3 id=&#34;-a1-suficiente-capacidad-para-agentes&#34;&gt;🧠 A1. Suficiente capacidad para agentes&lt;/h3&gt;
+&lt;p&gt;Los SLMs han progresado hasta el punto de &lt;strong&gt;igualar o superar LLMs previos&lt;/strong&gt; en tareas clave:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Modelos destacados&lt;/strong&gt;: Microsoft &lt;em&gt;Phi&lt;/em&gt; series, NVIDIA &lt;em&gt;Nemotron-H&lt;/em&gt;, &lt;em&gt;Huggingface SmolLM2&lt;/em&gt;, &lt;em&gt;Hymba-1.5B&lt;/em&gt;, &lt;em&gt;DeepSeek-R1-Distill&lt;/em&gt;, Salesforce &lt;em&gt;xLAM-2-8B&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Capacidades demostradas&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Razonamiento de sentido común&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Llamadas a herramientas&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Generación de código&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Seguimiento de instrucciones&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;👉 Hoy, la limitación ya no es la cantidad de parámetros, sino &lt;strong&gt;cómo se entrena, se ajusta y se integra&lt;/strong&gt; el modelo.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-a2-más-económicos-para-sistemas-agénticos&#34;&gt;💰 A2. Más económicos para sistemas agénticos&lt;/h3&gt;
+&lt;p&gt;Los beneficios económicos son contundentes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Inferencia eficiente&lt;/strong&gt;: Un SLM de 7B parámetros es &lt;strong&gt;10–30x más barato&lt;/strong&gt; en latencia, energía y cómputo que un LLM de 70–175B.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fine-tuning ágil&lt;/strong&gt;: Puede ajustarse en solo &lt;strong&gt;unas horas de GPU&lt;/strong&gt;, ideal para especializar o corregir comportamientos rápidamente.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Despliegue en el borde&lt;/strong&gt;: Pueden ejecutarse en &lt;strong&gt;GPUs personales&lt;/strong&gt;, sin conexión a la nube, con mejor control de datos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Modularidad tipo Lego&lt;/strong&gt;: En lugar de escalar un modelo monolítico, se ensamblan pequeños expertos, creando sistemas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Más baratos&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Más rápidos de depurar&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Más fáciles de mantener y desplegar&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-a3-mayor-flexibilidad&#34;&gt;🧩 A3. Mayor flexibilidad&lt;/h3&gt;
+&lt;p&gt;Los SLMs son &lt;strong&gt;más fáciles de entrenar, adaptar y desplegar&lt;/strong&gt;, lo que:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Permite múltiples modelos expertos especializados&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Democratiza la creación de agentes IA&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reduce el riesgo de &lt;strong&gt;sesgos sistémicos&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Estimula la &lt;strong&gt;innovación descentralizada&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-a4-y-si-el-llm-es-demasiado&#34;&gt;🔧 A4. ¿Y si el LLM es “demasiado”?&lt;/h2&gt;
+&lt;p&gt;En muchos casos, los agentes solo requieren una &lt;strong&gt;parte limitada&lt;/strong&gt; de la capacidad de un LLM. Un SLM bien ajustado para ciertas tareas específicas puede:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Ser &lt;strong&gt;más eficiente&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cometer &lt;strong&gt;menos errores&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ser &lt;strong&gt;más barato y rápido&lt;/strong&gt; en producción&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-a5-precisión-de-formato&#34;&gt;🎯 A5. Precisión de formato&lt;/h3&gt;
+&lt;p&gt;Las interacciones agénticas suelen depender de formatos estrictos: JSON, XML, Python&amp;hellip;&lt;br&gt;
+Un SLM especializado en esos formatos es &lt;strong&gt;más confiable&lt;/strong&gt; que un LLM generalista que puede fallar con &lt;strong&gt;alucinaciones de formato&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-a6-sistemas-agénticos-son-naturalmente-heterogéneos&#34;&gt;🧬 A6. Sistemas agénticos son naturalmente heterogéneos&lt;/h3&gt;
+&lt;p&gt;En sistemas complejos, tiene sentido:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Usar un LLM como agente raíz (gestión general)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Delegar tareas a múltiples SLMs subordinados, cada uno optimizado para tareas específicas&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Esto permite un equilibrio entre &lt;strong&gt;poder&lt;/strong&gt; y &lt;strong&gt;eficiencia&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-a7-aprendizaje-continuo&#34;&gt;📈 A7. Aprendizaje continuo&lt;/h3&gt;
+&lt;p&gt;Cada invocación de herramientas en un sistema agéntico genera datos de alta calidad que pueden usarse para:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Entrenar SLMs más expertos&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reemplazar LLMs en tareas específicas&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mejorar iterativamente&lt;/strong&gt; el sistema&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-definiciones-operativas&#34;&gt;📖 Definiciones operativas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;SLM (Small Language Model)&lt;/strong&gt;: Modelo que puede ejecutarse en dispositivos de consumo (como una laptop o GPU personal) con baja latencia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;LLM (Large Language Model)&lt;/strong&gt;: Modelo que &lt;strong&gt;no&lt;/strong&gt; cumple con las restricciones anteriores. En 2025, se considera SLM si tiene &lt;strong&gt;&amp;lt;10B parámetros&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-estado-actual-del-mercado&#34;&gt;📊 Estado actual del mercado&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Se estima que la IA agéntica alcanzará los &lt;strong&gt;$200 mil millones en 2034&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;En 2024, se invirtieron &lt;strong&gt;$57 mil millones&lt;/strong&gt; en infraestructura LLM centralizada.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sin embargo, esta infraestructura &lt;strong&gt;asume&lt;/strong&gt; que el modelo LLM seguirá siendo dominante&amp;hellip; ¿y si no?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-puntos-de-vista-alternativos-y-refutaciones&#34;&gt;🧠 Puntos de vista alternativos y refutaciones&lt;/h2&gt;
+&lt;h3 id=&#34;-av1-los-llms-tienen-mejor-comprensión-general&#34;&gt;⚠️ AV1: Los LLMs tienen mejor comprensión general&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Refutación&lt;/strong&gt;:&lt;br&gt;
+La generalidad es útil, pero &lt;strong&gt;en sistemas agénticos avanzados&lt;/strong&gt;, las tareas se descomponen y distribuyen. Aquí los &lt;strong&gt;SLMs especializados rinden más&lt;/strong&gt; por costo y precisión.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-av2-los-costos-por-token-de-los-llms-son-menores-por-economía-de-escala&#34;&gt;💸 AV2: Los costos por token de los LLMs son menores por economía de escala&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Contraargumento&lt;/strong&gt;:&lt;br&gt;
+Es válido, pero:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;La modularización de la inferencia&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Las mejoras en programación eficiente&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La caída de costos de hardware&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;hellip;hacen que los &lt;strong&gt;SLMs sigan siendo competitivos&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-av3-la-industria-ya-apostó-por-llms-cambiar-es-difícil&#34;&gt;🧭 AV3: La industria ya apostó por LLMs, cambiar es difícil&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Respuesta&lt;/strong&gt;:&lt;br&gt;
+Sí, hay inercia. Pero si los &lt;strong&gt;beneficios técnicos y económicos de los SLMs&lt;/strong&gt; siguen creciendo, este cambio puede ser &lt;strong&gt;inevitable&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusión&#34;&gt;✅ Conclusión&lt;/h2&gt;
+&lt;p&gt;Los &lt;strong&gt;SLMs no solo son el futuro&lt;/strong&gt;, ya están &lt;strong&gt;tomando el presente&lt;/strong&gt;.&lt;br&gt;
+Por su potencia emergente, eficiencia, flexibilidad y facilidad de despliegue, representan una &lt;strong&gt;alternativa viable, ágil y democrática&lt;/strong&gt; frente a los gigantescos LLMs.&lt;/p&gt;
+&lt;p&gt;¿El futuro de los agentes inteligentes?&lt;br&gt;
+Probablemente &lt;strong&gt;pequeño, rápido y especializado&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;¿Quieres adaptar esto como publicación para tu portafolio, Medium o LinkedIn? Puedo ayudarte a ajustarlo con tono más divulgativo o técnico según tu público.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

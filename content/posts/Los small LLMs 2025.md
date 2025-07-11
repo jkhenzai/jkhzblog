@@ -1,8 +1,11 @@
-Aquí tienes el texto transformado en un **estilo de blog en formato Markdown**, listo para ser usado en plataformas como GitHub, Notion, Hugo, Obsidian, etc.
-
+---
+title: "🚀 Modelos de Lenguaje Pequeños (SLMs): El Futuro de la IA Agéntica"
+date: 2025-07-11
+tags: ["LLM", "sLLMs"]
+draft: false
 ---
 
-# 🚀 Modelos de Lenguaje Pequeños (SLMs): El Futuro de la IA Agéntica
+
 
 La inteligencia artificial agéntica está evolucionando rápidamente, y todo apunta a que los **Modelos de Lenguaje Pequeños (SLMs)** tienen un rol protagónico en este futuro. Frente al dominio actual de los **Modelos de Lenguaje Grandes (LLMs)**, los autores de este análisis argumentan que los SLMs son:
 
