@@ -5,8 +5,6 @@ tags: ["LLM", "sLLMs"]
 draft: false
 ---
 
-
-
 La inteligencia artificial agéntica está evolucionando rápidamente, y todo apunta a que los **Modelos de Lenguaje Pequeños (SLMs)** tienen un rol protagónico en este futuro. Frente al dominio actual de los **Modelos de Lenguaje Grandes (LLMs)**, los autores de este análisis argumentan que los SLMs son:
 
 - ✅ Suficientemente potentes (V1)
