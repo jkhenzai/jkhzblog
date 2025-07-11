@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Terminal</title>
-    <link>//localhost:1313/tags/</link>
+    <link>https://github.com/iJKENNEDY/jkhzblog/tags/</link>
     <description>Recent content in Tags on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/iJKENNEDY/jkhzblog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#AI</title>
-      <link>//localhost:1313/tags/%23ai/</link>
+      <link>https://github.com/iJKENNEDY/jkhzblog/tags/%23ai/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/%23ai/</guid>
+      <guid>https://github.com/iJKENNEDY/jkhzblog/tags/%23ai/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>GenerativeAI</title>
-      <link>//localhost:1313/tags/generativeai/</link>
+      <link>https://github.com/iJKENNEDY/jkhzblog/tags/generativeai/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/generativeai/</guid>
+      <guid>https://github.com/iJKENNEDY/jkhzblog/tags/generativeai/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>LLM</title>
-      <link>//localhost:1313/tags/llm/</link>
+      <link>https://github.com/iJKENNEDY/jkhzblog/tags/llm/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/llm/</guid>
+      <guid>https://github.com/iJKENNEDY/jkhzblog/tags/llm/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>SLLMs</title>
-      <link>//localhost:1313/tags/sllms/</link>
+      <link>https://github.com/iJKENNEDY/jkhzblog/tags/sllms/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/sllms/</guid>
+      <guid>https://github.com/iJKENNEDY/jkhzblog/tags/sllms/</guid>
       <description></description>
       <content></content>
     </item>

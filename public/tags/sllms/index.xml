@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SLLMs on Terminal</title>
-    <link>//localhost:1313/tags/sllms/</link>
+    <link>https://github.com/iJKENNEDY/jkhzblog/tags/sllms/</link>
     <description>Recent content in SLLMs on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/sllms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/iJKENNEDY/jkhzblog/tags/sllms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🚀 Modelos de Lenguaje Pequeños (SLMs): El Futuro de la IA Agéntica</title>
-      <link>//localhost:1313/posts/los-small-llms-2025/</link>
+      <link>https://github.com/iJKENNEDY/jkhzblog/posts/los-small-llms-2025/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/los-small-llms-2025/</guid>
+      <guid>https://github.com/iJKENNEDY/jkhzblog/posts/los-small-llms-2025/</guid>
       <description>&lt;p&gt;La inteligencia artificial agéntica está evolucionando rápidamente, y todo apunta a que los &lt;strong&gt;Modelos de Lenguaje Pequeños (SLMs)&lt;/strong&gt; tienen un rol protagónico en este futuro. Frente al dominio actual de los &lt;strong&gt;Modelos de Lenguaje Grandes (LLMs)&lt;/strong&gt;, los autores de este análisis argumentan que los SLMs son:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;

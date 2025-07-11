@@ -1,4 +1,5 @@
-baseurl = "/"
+# defect "/"
+baseurl = "https://github.com/iJKENNEDY/jkhzblog"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -44,7 +45,7 @@ paginate = 5
   # set title for the table of contents
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
-
+publishDir = "docs"
 
 [params.twitter]
   # set Twitter handles for Twitter cards
