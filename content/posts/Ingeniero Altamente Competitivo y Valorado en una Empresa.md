@@ -10,7 +10,7 @@ draft: false
 ## Informe: El Impacto de la IA en el Talento y la Educación
 
 Este informe analiza las perspectivas de líderes de ingeniería sobre cómo la inteligencia artificial (IA) está transformando el panorama del talento, las habilidades requeridas y el futuro del trabajo, con un enfoque particular en el desarrollo de software y la educación.
-![[image (3).jpg]]
+![anime engineer](https://cdn.prod.website-files.com/646caab5700fe0d1824a61b9/64c7d4d0d67e42c796938738_engineers.png)
 ### Temas Principales
 
 1. **La Evolución de la Codificación: De "Wrangling Syntax" a "Vibe Coding"**
